@@ -1,6 +1,6 @@
 # Java-DFFNN
 
-A java-made deep feed forward neural network. This is an adaptation from the Python-made network (another repository of mine).
+A Java-made deep feed forward neural network. This is an adaptation from the Python-made network (another repository of mine).
 
 Notes:
   * The network is based off of the algorithm and equations outlined in Michel Nielsen's online book "Neural Networks and Deep Learning".
